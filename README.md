@@ -6,4 +6,5 @@ This project is an AI-powered object detection system designed to identify stati
 The goal is to create a lightweight detection system useful in areas like surveillance, security, or crowd monitoring where unattended objects may pose safety risks.
 
 👉 [View on Roboflow](https://app.roboflow.com/myworkspace-8463l/stationary-object-detector-um274/models/stationary-object-detector-um274/9)
-
+Another Version:
+👉 [View on Roboflow](https://app.roboflow.com/myworkspace-8463l/stationary-object-detector-um274/8)
